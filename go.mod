@@ -1,4 +1,4 @@
-module github.com/VictorOtavio/golang-gorm-with-uuid
+module github.com/vctrtvfrrr/golang-gorm-with-uuid
 
 go 1.14
 
